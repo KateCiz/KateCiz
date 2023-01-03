@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Stickers & Stories](https://stickersandstories.onrender.com)
 
-- 🌱 I’m currently learning **EmailJS**
+- 🌱 I’m currently learning **Stripe API**
 
 - 📫 How to reach me **kate27ciz@gmail.com**
 
