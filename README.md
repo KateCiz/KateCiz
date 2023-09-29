@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently sharpening my SQL and React skills as a Junior Instructor at App Academy
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
