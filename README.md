@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently sharpening my SQL and React skills as a Junior Instructor at App Academy
 
-- 📫 How to reach me **kate27ciz@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
