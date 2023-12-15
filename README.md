@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kate!</h1>
 <h3 align="center">A passionate full stack developer from Pennsylvania, USA</h3>
 
-- 🔭 I’m currently sharpening my SQL and React skills as a Junior Instructor at App Academy
+- 🔭 I’m currently sharpening my SQL and React skills as a Module Assistant at App Academy
 
 <p align="left">
 </p>
