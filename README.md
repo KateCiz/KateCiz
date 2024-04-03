@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kate!</h1>
-<h3 align="center">A passionate full stack developer from Pennsylvania, USA</h3>
+<h3 align="center">A passionate full stack developer </h3>
 
 - 🔭 I’m currently sharpening my SQL and React skills as a Module Assistant at App Academy
 
